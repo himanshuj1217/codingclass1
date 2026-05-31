@@ -1,4 +1,4 @@
-number = float(print("Please enter your number here: ")) 
+number = float(input("Please enter your number here: ")) 
 square  = float(number**2)
 cube = float(number**3)
 squareRoot = float(number**(1/2))
