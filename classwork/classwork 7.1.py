@@ -13,10 +13,10 @@
 #     if remainder == 0  and remainder2 == 0:
 #        print(f"hello i:{i} ")
 #--> display all numbers divisible by 2 and 3 or 5 and 10 
-for i in range (1,100, 1):
-    remainder2 = i % 2
-    remainder3 = i % 3
-    remainder5 = i % 5
-    remainder10 = i % 10
-    if remainder2 == 0  and remainder3 == 0 or remainder5 == 0  and remainder10 == 0:
-        print(f"hello i:{i} ")
+# for i in range (1,100, 1):
+#     remainder2 = i % 2
+#     remainder3 = i % 3
+#     remainder5 = i % 5
+#     remainder10 = i % 10
+#     if remainder2 == 0  and remainder3 == 0 or remainder5 == 0  and remainder10 == 0:
+#         print(f"hello i:{i} ")
